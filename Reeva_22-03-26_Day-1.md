@@ -1,4 +1,4 @@
-#DAY-1-3Sum
+#DAY-1-3Sum(Intermediate)
 
 <img width="1903" height="874" alt="image" src="https://github.com/user-attachments/assets/e14ed17c-e520-48f6-8162-5433d2a499dd" />
 #Code

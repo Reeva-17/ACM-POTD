@@ -1,8 +1,8 @@
-#DAY-1-Removing Duplicates in a Sorted Array
-#Approach
+#DAY-1-3Sum
 
-#Code
 <img width="1903" height="874" alt="image" src="https://github.com/user-attachments/assets/e14ed17c-e520-48f6-8162-5433d2a499dd" />
+#Code
+
 #include <vector>
 #include <algorithm>
 using namespace std;
